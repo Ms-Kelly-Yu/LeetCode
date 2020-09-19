@@ -17,4 +17,8 @@ modify in feature branch
 modify in master branch
 modify in dev branch
 --dev
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+----dev stash
 >>>>>>> dev
