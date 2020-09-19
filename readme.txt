@@ -1,4 +1,4 @@
-first repository - right word 100 score
+first repository
 create a new branch
 <<<<<<< HEAD
 modify in master branch - modify
