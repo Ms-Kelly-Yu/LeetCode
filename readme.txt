@@ -1,5 +1,6 @@
 first repository
 create a new branch
+<<<<<<< HEAD
 modify in master branch - modify
 modify in dev branch
 <<<<<<< HEAD
@@ -12,3 +13,8 @@ modify in feature branch
 modify in feature branch
 111
 >>>>>>> feature
+=======
+modify in master branch
+modify in dev branch
+--dev
+>>>>>>> dev
